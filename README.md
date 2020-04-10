@@ -1,3 +1,9 @@
+# udacity-sleep-tracker
+
+This is the sixth app for lesson 2 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
+
+This app is not my own, but the team that developed the course.
+
 # Room - SleepQualityTracker app
 
 This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
