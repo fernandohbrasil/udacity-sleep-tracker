@@ -8,6 +8,6 @@ This app is not my own, but the team that developed the course.
 
 Once the same Project was used for two lessons, I created following two branchs:
 
-
 [ROOM](https://github.com/fernandohbrasil/udacity-sleep-tracker/tree/ROOM) - With the lesson 6
+
 [RecyclerView](https://github.com/fernandohbrasil/udacity-sleep-tracker/tree/RecyclerView) - With the lesson 7
