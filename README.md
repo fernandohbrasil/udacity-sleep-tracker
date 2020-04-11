@@ -1,12 +1,12 @@
 # udacity-sleep-tracker
 
-This is the sixth app for lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
+This is a continuation of the app developed in class 6 for lesson 7 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 This app is not my own, but the team that developed the course.
 
-# Room - SleepQualityTracker app
+## SleepQualityTracker with RecyclerView
 
-This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
+This app builds on the SleepQualityTracker you developed in Lesson 6.  In this lesson you'll learn how to display a list of results in a RecyclerView instead of a static ScrollView. You'll also learn how you can refactor your code to make it more efficient so it will be easier to maintain and test.
 
 ## SleepQualityTracker
 
@@ -17,9 +17,11 @@ The SleepQualityTracker app is a demo app that helps you collect information abo
 * Time slept
 
 This app demonstrates the following views and techniques:
-* Room database
-* DAO
-* Coroutines
+* RecyclerView
+* Adapter
+* ViewHolder
+* LinearLayoutManager
+* GridLayoutManager
 
 It also uses and builds on the following techniques from previous lessons:
 * Transformation map
@@ -27,6 +29,9 @@ It also uses and builds on the following techniques from previous lessons:
 * ViewModel Factory
 * Using Backing Properties to protect MutableLiveData
 * Observable state LiveData variables to trigger navigation
+* Room database
+* DAO
+* Coroutines
 
 ## Screenshots
 
